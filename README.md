@@ -57,6 +57,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arhamaamir&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
   <img width=390 src="https://github-readme-streak-stats-arhamaamir.vercel.app/?user=arhamaamir&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-arhamaamir.vercel.app/api?username=arhamaamir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
