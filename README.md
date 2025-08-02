@@ -12,16 +12,16 @@
  
 🔭 Currently building at <a href="https://empeer.io">Empeer Devlabs</a> & <a href="https://www.linkedin.com/company/empeerden/">Empeer Den</a>  
 ⚙️ Working on Full-Stack, LLM-powered SaaS, Blockchain Protocols, and Automation  
-📈 Exploring business development, devrel, GTM strategy & AI productization  
-💬 Ask me about React, Node, Prompt Engineering, or Startup Tech Stacks  
-⚡ Fun fact: Web3 is not as decentralized as you'd think 😉  
+📈 Exploring Business Development, DevRel, GTM strategy & AI Productization  
+💬 Ask me about SaaS,AI Automation or Startup Tech Stacks  
+⚡ Fun fact: Web3 is not as decentralized as you'd think 😉 
 
 </div>
 
 <br/>
 
 <div align="center"> 
-  <a href="mailto:abdularham420@gmail.com">
+  <a href="mailto:arhamaamir@empeer.tech">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/arhamaamir/" target="_blank">  
