@@ -4,22 +4,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arham+Aamir!;" />
 </h1>
 
-<h3 align="center">A passionate Computer Scientist from Pakistan 🇨🇦</h3>
+<h3 align="center">COO @ <a href="https://empeer.io">Empeer Holdings</a> | Building AI + Blockchain Solutions 🚀</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Blockchain related Projects**
- 
- 🌱 I’m currently learning **Business Development & Business Analytics**
+🔭 Currently building at <a href="https://empeer.io">Empeer</a> & <a href="https://empeerden.com">Empeer Den</a>  
+⚙️ Working on Full-Stack, LLM-powered SaaS, Blockchain Protocols, and Automation  
+📈 Exploring business development, devrel, GTM strategy & AI productization  
+💬 Ask me about React, Node, Prompt Engineering, or Startup Tech Stacks  
+⚡ Fun fact: Web3 is not as decentralized as you'd think 😉  
 
-💬 Ask me about **React, Javascript, Node ... or anything [here](https://github.com/salesp07/salesp07/issues)**
+</div>
 
-⚡ Fun fact **WEB3 isn't that Decentralized as Protocols/Blockchains told you!**
+<br/>
 
- </div>
- 
 <div align="center"> 
   <a href="mailto:abdularham420@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -27,51 +27,41 @@
   <a href="https://linkedin.com/in/arhamaamir/" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a> -->
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+---
+
+### ⚒️ Languages, Frameworks & Tools
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,nestjs,typescript,javascript,mongodb,graphql,vercel,aws,figma,git,vscode" />
 </div>
 
-<br/>
-<hr/>
+---
+
+### 🐍 Contribution Snake
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arhamaamir/arhamaamir/output/github-contribution-grid-snake.svg" />
-    
-  <br/><br/><br/>
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arhamaamir&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
-<!--   <img width=390 src="https://github-readme-streak-stats-arhamaamir.vercel.app/?user=arhamaamir&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-arhamaamir.vercel.app/api?username=arhamaamir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-arhamaamir.vercel.app/api/top-langs/?username=arhamaamir&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
+### 📊 GitHub Stats
 
 <div align="center">
-<a href='https://buymeacoffee.com/abdularhamh' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=arhamaamir&theme=dark&border_radius=10" alt="GitHub Streak" />
+  </a>
 </div>
 
-<br/>
+---
+
+### ☕ Buy Me a Coffee
+
+<div align="center">
+<a href='https://buymeacoffee.com/abdularhamh' target='_blank'>
+<img height='64' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
+</div>
+
