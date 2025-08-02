@@ -10,10 +10,10 @@
 
 <div align="center">
  
-🔭 Currently building at <a href="https://empeer.tech">Empeer Devlabs</a> & Community <a href="https://www.linkedin.com/company/empeerden/">Empeer Den</a>  
+🔭 Currently building at <a href="https://empeer.tech">Empeer Devlabs</a> & <a href="https://www.linkedin.com/company/empeerden/">Empeer Den</a>  
 ⚙️ Working on Full-Stack, LLM-powered SaaS, Blockchain Protocols, and Automation  
 📈 Exploring Business Development, DevRel, GTM strategy & AI Productization  
-💬 Ask me about SaaS, AI Automation or Startup Tech Stacks  
+💬 Ask me about SaaS Development, AI Automation or Startup Tech   
 ⚡ Fun fact: Web3 is not as decentralized as you'd think 😉 
 
 </div>
@@ -29,6 +29,9 @@
   </a>
   <a href="https://calendly.com/abdularham420/30min" target="_blank">
     <img src="https://img.shields.io/badge/Calendly-0A66C2?style=for-the-badge&logo=calendly&logoColor=white" />
+  </a>
+  <a href="https://x.com/annas_jpeg" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
