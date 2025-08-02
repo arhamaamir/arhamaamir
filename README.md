@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🔭 Currently building at <a href="https://empeer.tech">Empeer Devlabs</a> & <a href="https://www.linkedin.com/company/empeerden/">Empeer Den</a>  
+🔭 Currently building at <a href="https://empeer.tech">Empeer Devlabs</a> & Community<a href="https://www.linkedin.com/company/empeerden/">Empeer Den</a>  
 ⚙️ Working on Full-Stack, LLM-powered SaaS, Blockchain Protocols, and Automation  
 📈 Exploring Business Development, DevRel, GTM strategy & AI Productization  
 💬 Ask me about SaaS, AI Automation or Startup Tech Stacks  
