@@ -13,7 +13,7 @@
 🔭 Currently building at <a href="https://empeer.tech">Empeer Devlabs</a> & <a href="https://www.linkedin.com/company/empeerden/">Empeer Den</a>  
 ⚙️ Working on Full-Stack, LLM-powered SaaS, Blockchain Protocols, and Automation  
 📈 Exploring Business Development, DevRel, GTM strategy & AI Productization  
-💬 Ask me about SaaS,AI Automation or Startup Tech Stacks  
+💬 Ask me about SaaS, AI Automation or Startup Tech Stacks  
 ⚡ Fun fact: Web3 is not as decentralized as you'd think 😉 
 
 </div>
@@ -24,8 +24,11 @@
   <a href="mailto:arhamaamir@empeer.tech">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/arhamaamir/" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://linkedin.com/in/arhamaamir/" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://calendly.com/abdularham420/30min" target="_blank">
+    <img src="https://img.shields.io/badge/Calendly-0A66C2?style=for-the-badge&logo=calendly&logoColor=white" />
   </a>
 </div>
 
@@ -64,4 +67,3 @@
 <img height='64' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 </div>
-
