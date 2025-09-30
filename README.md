@@ -11,8 +11,8 @@
 <div align="center">
  
 🔭 Currently building at <a href="https://empeer.tech">Empeer Devlabs</a> & <a href="https://www.linkedin.com/company/empeerden/">Empeer Den</a>  
-⚙️ Working on Full-Stack, LLM-powered SaaS, Blockchain Protocols, and Automation  
-📈 Exploring Business Development, DevRel, GTM strategy & AI Productization  
+⚙️ Working on Full-Stack, LLM-powered SaaS, and Automation  
+📈 Exploring Business Development, GTM strategy & AI Productization  
 💬 Ask me about SaaS Development, AI Automation or Startup Tech   
 ⚡ Fun fact: Web3 is not as decentralized as you'd think 😉 
 
