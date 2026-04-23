@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arham+Aamir!;" />
 </h1>
 
-<h3 align="center">COO @ <a href="https://empeer.tech">Empeer Devlabs</a> | Building AI Solutions 🚀</h3>
+<h3 align="center">COO @ <a href="https://www.behance.net/empeer-devlab">Empeer Devlabs</a> | Building AI Solutions 🚀</h3>
 
 <br/>
 
 <div align="center">
  
-🔭 Currently building at <a href="https://empeer.tech">Empeer Devlabs</a> & <a href="https://www.linkedin.com/company/empeerden/">Empeer Den</a>  
+🔭 Currently building at <a href="https://www.behance.net/empeer-devlab">Empeer Devlabs</a> & <a href="https://www.linkedin.com/company/empeerden/">Empeer Den</a>  
 ⚙️ Working on Full-Stack, LLM-powered SaaS, and Automation  
 📈 Exploring Business Development, GTM strategy & AI Productization  
 💬 Ask me about SaaS Development, AI Automation or Startup Tech   
