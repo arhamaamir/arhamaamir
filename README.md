@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🔭 Currently building at <a href="https://www.behance.net/empeer-devlab">Empeer Devlabs</a> & <a href="https://www.linkedin.com/company/empeerden/">Empeer Den</a>  
+🔭 Currently building at <a href="https://www.behance.net/empeer-devlab">Empeer Devlab</a> & <a href="https://www.linkedin.com/company/empeerden/">Empeer Den</a>  
 ⚙️ Working on Full-Stack, LLM-powered SaaS, and Automation  
 📈 Exploring Business Development, GTM strategy & AI Productization  
 💬 Ask me about SaaS Development, AI Automation or Startup Tech   
